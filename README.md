@@ -2,7 +2,6 @@
 
 # Animated Bottom Bar
 
-
 (https://github.com/AB-star-50/Animated-Bottom-Bar/blob/main/shift_static.gif)
 
 
