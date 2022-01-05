@@ -3,6 +3,9 @@
 # Animated Bottom Bar
 
 
+(https://github.com/AB-star-50/Animated-Bottom-Bar/blob/main/shift_static.gif)
+
+
 ## What is this component about?
 
 This component that mimics the new Animated Bottom Bar with sleek animations.
